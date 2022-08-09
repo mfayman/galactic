@@ -1,6 +1,6 @@
 [
   {
-      "sectionTitle": "Section One Title",
+      "sectionTitle": "Section One",
       "questions": [
         "Do you manage privileged accounts using a privileged access management software (PAM)?",
         "If a PAM solution is deployed, is accessible in a \"check-in/out\" model?",
