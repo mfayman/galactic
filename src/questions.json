@@ -1,0 +1,24 @@
+[
+  {
+      "sectionTitle": "Section One Title",
+      "questions": [
+        "Do you manage privileged accounts using a privileged access management software (PAM)?",
+        "If a PAM solution is deployed, is accessible in a \"check-in/out\" model?",
+        "Do you use MFA to protect all local and remote access to privileged user accounts?",
+        "Do you manage privileged accounts using a privileged access management software (PAM)?",
+        "If a PAM solution is deployed, is accessible in a \"check-in/out\" model?",
+        "Do you use MFA to protect all local and remote access to privileged user accounts?"
+    ]
+  },
+  {
+      "sectionTitle": "Section Two Title",
+      "questions": [
+        "Do you use MFA to protect all local and remote access to privileged user accounts?",
+        "If a PAM solution is deployed, is accessible in a \"check-in/out\" model?",
+        "Do you manage privileged accounts using a privileged access management software (PAM)?",
+        "Do you use MFA to protect all local and remote access to privileged user accounts?",
+        "If a PAM solution is deployed, is accessible in a \"check-in/out\" model?",
+        "Do you manage privileged accounts using a privileged access management software (PAM)?"
+    ]
+  }
+]

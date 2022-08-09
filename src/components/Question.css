@@ -1,0 +1,24 @@
+.questionRow {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  gap: 1em;
+  margin: 1em auto;
+}
+
+.radioButtons > div {
+  display: flex;
+  gap: 1em;
+  justify-content: right;
+  padding: 0.5em;
+}
+
+.question {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  justify-content: space-between;
+  max-width: 800px;
+  padding: 0.5em;
+  width: 100%;
+}
